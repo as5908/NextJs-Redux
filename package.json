@@ -1,0 +1,32 @@
+{
+  "name": "reduxTestApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.19.2",
+    "next": "9.3.4",
+    "next-redux-wrapper": "5.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5",
+    "redux-devtools-extension": "2.13.8",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "13.11.1",
+    "@types/react": "16.9.34",
+    "@types/react-redux": "7.1.7",
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
